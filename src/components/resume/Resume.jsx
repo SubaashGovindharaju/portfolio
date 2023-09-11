@@ -44,7 +44,7 @@ const Resume = () => {
                   January 2023 - Present
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                I completed the MERN Full Stack Developer program at GUVI, where I acquired comprehensive skills in web development. This intensive program covered the entire stack, including MongoDB, Express.js, React, and Node.js. Throughout my training, I honed my ability to create dynamic and responsive web applications, build robust server-side solutions, and integrate databases effectively. I also gained experience in optimizing application performance and ensuring security.
+                I completed the MERN Full Stack Developer program at GUVI, where I acquired comprehensive skills in web development. This intensive program covered the entire stack, including MongoDB, Express.js, ReactJs, and NodeJs. Throughout my training, I honed my ability to create dynamic and responsive web applications, build robust server-side solutions, and integrate databases effectively. I also gained experience in optimizing application performance and ensuring security.
                 </p>
               </div>
             </div>
@@ -68,16 +68,16 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  B.E, Electronics and Commnication Engineering
+                  B.E, Electronics and Communication Engineering
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                Karpagam College of Engineering College in India
+                Karpagam College of Engineering, TamilNadu, India
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                   Oct 2019 - Apr 2023
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                I hold a Bachelor's degree in Electronics and Communication Engineering from Karpagam College of Engineering. My education there provided me with a solid foundation in electronics and telecommunications, and I gained hands-on experience through various projects. I'm excited to apply this knowledge in my career.
+                I hold a Bachelor's degree in Electronics and Communication Engineering from Karpagam College of Engineering. My education provided me with a solid foundation in electronics and communications, and I gained hands-on experience through various projects. I'm excited to apply this knowledge in my career.
                 </p>
               </div>
             </div>
