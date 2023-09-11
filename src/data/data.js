@@ -12,7 +12,7 @@ export const data = [
   {
     id: 2,
     img: 'https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_336x210/https://d33wubrfki0l68.cloudfront.net/64d899925fbae900082c1321/screenshot_2023-08-13-08-52-10-0000.png',
-    title: "Tarvel Agency",
+    title: "SB Admin",
     link: "https://day-22-sbadmin-subaash.netlify.app/",
     git: "https://github.com/SubaashGovindharaju/day-22-react-app",
   },
